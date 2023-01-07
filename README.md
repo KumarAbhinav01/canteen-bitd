@@ -1,12 +1,13 @@
-# Sai Cafe
-Online Food Ordering System Project
+# Canteen BITD - Online Food Ordering System Project
 
-## Project Status
-- Status: COMPLETED
-- Completion: **100%**
+Welcome to Canteen BITD - an innovative and comprehensive online food ordering and management system tailored for Birla Institute of Technology. In response to the challenges faced by canteens, messes, and cafeterias dealing with high volumes of customers during peak hours, we've developed a sophisticated solution to streamline the entire process. Our web-based application is designed to alleviate the inefficiencies of traditional ordering and delivery systems by allowing registered users to place their food orders in advance, with the added convenience of online payments. The user-friendly interface enables individuals to select their preferred delivery time slots, optimizing both user experience and operational efficiency.
 
-## Project Description
-SaiCafe is a Online canteen food ordering and management system based on a scenario at Sri Sairam Engineering College, Chennai. We have been observing that in many canteens/mess/cafeteria in all Institution such as educational, IT Sectors and Factories are experiencing huge crowds during peak hours. Due to this there was prolonged queue in the billing as well as delivery place, this ultimately leads to wastage of time and human errors in accounting... To overcome this problem, we came with a solution Online food ordering in the café using our web application. In our application any Registered Person can able to view and place their food orders prior to their break time with facilitation of online payments. The user can select a particular slot on which he/she willing to take delivery of the food.
+## Features
+- **Effortless Registration and Login:** Users can easily create accounts and log in to access personalized features and place food orders.
+- **Diverse Store Sections:** The canteen is efficiently divided into three sections catering to students, faculty, and other visitors, each with its distinct menu and offerings.
+- **Advanced Order Placement:** Authenticated users can explore section-specific menus, select desired food items, specify quantities, and effortlessly add them to their virtual cart.
+- **Order Tracking and History:** Users have the ability to track their order status and review past orders, facilitating transparency and order management.
+- **Empowering Admin and Store Owners:** Administrators and store owners enjoy elevated privileges, including inventory management, menu updates, order processing, and comprehensive administrative control.
 
 ## Software Tools Used in this Project
 - HTML 5
@@ -18,12 +19,18 @@ SaiCafe is a Online canteen food ordering and management system based on a scena
 - Omise API Version 2019-05-29
 
 ## Note
-- To use Omise API in PHP language for your project, go to https://github.com/omise/omise-php. For more information about Omise Payment API, visit https://www.omise.co/docs
-- Food images included in the img folder.
-- To install the SaiCafe app, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it saicafe in phpMyAdmin (http://localhost/phpmyadmin) using file Saicafe.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/saicafe/) and enjoy.
-- You can register for the customer account and log in. To log in with shop account, press the log in with shop account under login page. Add shop account using the admin mode. Access admin mode by clicking at the first name in the footer at the customer log in page. You can look up 
+- The integration of Omise API into your PHP project is facilitated through https://github.com/omise/omise-php. For a thorough understanding of the Omise Payment API, refer to https://www.omise.co/docs.
+- A rich collection of food images is conveniently stored in the project's img folder.
+- Installation of the Canteen BITD app is straightforward:
+    1. Download and install XAMPP.
+    2. Download this repository and place it within the directory (C:/xampp/htdocs/).
+    3. Import the database using the provided Saicafe.sql file in phpMyAdmin (http://localhost/phpmyadmin).
+    4. Initiate the Apache and MySQL services via XAMPP.
+    5. Access the app through your preferred web browser (http://localhost/canteen-bitd/).
+- Both user and shop owner accounts are accommodated, with the latter accessible through the "Log in with shop account" option. Admin mode can be accessed by clicking on the first name in the footer on the customer login page. Shop accounts can be effectively managed within the admin mode.
 
-## Members
-- Magesh K
-- Keertheshwaran G
-- SelvaNarayanan A
+Experience the power of Canteen BITD as it revolutionizes the food ordering process. By embracing modern technology and intuitive design, we aim to enhance user satisfaction, reduce wait times, and elevate the overall canteen experience. Should you require any assistance or encounter inquiries, our dedicated development team is here to support you. Embrace the future of food ordering with Canteen BITD!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
